@@ -13,11 +13,11 @@ windows.start()
 # Development status
 Actualy the devlopment is just starting.
 This is a check list:
-[ ] Bases of the OS
-[ ] Api
-[ ] Documentation of api
-[ ] Creation of OpsyStore app
-[ ] Api for deploy application on the OpsyStore
-[ ] Documentation of OpsyStore deployement
+- [ ] Bases of the OS
+- [ ] Api
+- [ ] Documentation of api
+- [ ] Creation of OpsyStore app
+- [ ] Api for deploy application on the OpsyStore
+- [ ] Documentation of OpsyStore deployement
 
 **Day of devlopement n°1.**
