@@ -1,6 +1,6 @@
 ![WebOpsy logo](https://i.imgur.com/pHkoSpz.png)
 
-# What is WebOpsy ? [FR](docs/LISEZMOI.md)
+# What is WebOpsy ?
 WebOpsy is an Online OS (Web = Online, Opsy = Operating system), with an modern ui...
 ## Why choice WebOpsy ? 
 With WebOpsy you can create application with its api, and with web technologie.
