@@ -14,7 +14,7 @@ windows.start()
 Actualy the devlopment is just starting.
 This is a check list:
 - [ ] Bases of the OS
-- [ ] Github.io
+- [X] Github.io
 - [ ] Api
 - [ ] Documentation of api
 - [ ] Creation of OpsyStore app
