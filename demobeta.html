@@ -6,13 +6,15 @@
     </head>
     
     <body>
-        <div id="alert" type="warn">
-            <p id="alert-title">Problèmes de connection ?</p>
-            <p id="alert-content">Regardez les status de discord...</p>        
+        <div id="alert" type="warn" active="false">
+            <p id="alert-title"></p>
+            <p id="alert-content"></p>
+            <span id="alert-close" onclick="opsy.closeAlert()">[X]</span>      
         </div>
 
 
         <script src="src/index.js"></script>
         <script src="src/alert.js"></script>
+        <script src="src/wallpaper.js"></script>
     </body>
 </html> 

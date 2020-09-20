@@ -3,13 +3,31 @@
 body {
     font-family: 'Economica', sans-serif;
     margin: 0;
+    background-repeat: no-repeat;
+    background-position: 50% 50%;
+    background-size: cover;
 }
 
-#alert {
+#alert[active="true"] {
+    opacity: 0.6;
     position: absolute;
     background-color: antiquewhite;
     width: 99.5%;
     padding-left: 0.5%;
+    top: 0px;
+    transition: .20s;
+    transition-timing-function: cubic-bezier(0.84, 0.82, 0.9, 0.82);
+}
+
+
+#alert[active="false"] {
+    position: absolute;
+    background-color: antiquewhite;
+    width: 99.5%;
+    padding-left: 0.5%;
+    top: -30%;
+    transition: .20s;
+    transition-timing-function: cubic-bezier(0.84, 0.82, 0.9, 0.82);
 }
 
 #alert-title {
@@ -22,4 +40,16 @@ body {
     font-size: 1.7em;
     margin-top: -4%;
 
+}
+#alert-close {
+    cursor: pointer;
+    position: absolute;
+    top: 5%;
+    right: 1%;
+    font-size: 2em;
+}
+
+#alert-close:hover {
+    color: rgb(206, 30, 30);
+    transition: 0.2s;
 }
