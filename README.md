@@ -1,7 +1,7 @@
 ![WebOpsy logo](https://i.imgur.com/pHkoSpz.png)
 
 
-__NEW:__ [DEMO](firelop.github.io/WebOpsy/demobeta.html)
+__NEW:__ [DEMO](https://firelop.github.io/WebOpsy/demobeta.html)
 # What is WebOpsy ?
 WebOpsy is an Online OS (Web = Online, Opsy = Operating system), with an modern ui...
 ## Why choice WebOpsy ? 
