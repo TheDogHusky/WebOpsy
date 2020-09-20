@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Economica&display=swap');
+
+body {
+    font-family: 'Economica', sans-serif;
+    margin: 0;
+}
+
+#alert {
+    padding: 1%, 0.5%;
+}
+
+#alert-title {
+    font-size: 3em;
+    padding: 0;
+}
+
+#alert-content {
+    font-size: 1.2em;
+    margin-top: -3%;
+}
