@@ -21,4 +21,4 @@ This is a check list:
 - [ ] Api for deploy application on the OpsyStore
 - [ ] Documentation of OpsyStore deployement
 
-**Day of devlopement n°1.**
+**Day of devlopement n°2.**
