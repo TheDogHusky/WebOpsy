@@ -24,13 +24,13 @@ Actualy the devlopment is just starting.
 - [ ] Documentation of OpsyStore deployement
 
 ### New today:
-[DEMO](https://firelop.github.io/WebOpsy/demobeta.html)
-Bases of os: alert system
-Bases of os: background system
+- [DEMO](https://firelop.github.io/WebOpsy/demobeta.html)
+- Bases of os: alert system
+- Bases of os: background system
 
 ### Actual features:
-[DEMO](https://firelop.github.io/WebOpsy/demobeta.html)
-Bases of os: alert system
-Bases of os: background system
+- [DEMO](https://firelop.github.io/WebOpsy/demobeta.html)
+- Bases of os: alert system
+- Bases of os: background system
 
 **Day of devlopement n°2.**
