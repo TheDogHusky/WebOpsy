@@ -6,15 +6,20 @@ body {
 }
 
 #alert {
-    padding: 1%, 0.5%;
+    position: absolute;
+    background-color: antiquewhite;
+    width: 99.5%;
+    padding-left: 0.5%;
 }
 
 #alert-title {
-    font-size: 3em;
+    font-size: 4em;
     padding: 0;
+    margin-top: -0.1%
 }
 
 #alert-content {
-    font-size: 1.2em;
-    margin-top: -3%;
+    font-size: 1.7em;
+    margin-top: -4%;
+
 }
