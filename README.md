@@ -26,13 +26,11 @@ Actualy the devlopment is just starting.
 - [ ] Documentation of OpsyStore deployement
 
 ### New today:
-- [DEMO](https://firelop.github.io/WebOpsy/demobeta.html)
-- Bases of os: alert system
-- Bases of os: background system
+- Bases of os: Beginning of the taskbar
 
 ### Actual features:
 - [DEMO](https://firelop.github.io/WebOpsy/demobeta.html)
 - Bases of os: alert system
 - Bases of os: background system
 
-**Day of devlopement n°2.**
+**Day of devlopement n°3.**
