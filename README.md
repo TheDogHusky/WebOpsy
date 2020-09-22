@@ -32,5 +32,6 @@ Actualy the devlopment is just starting.
 - [DEMO](https://firelop.github.io/WebOpsy/demobeta.html)
 - Bases of os: alert system
 - Bases of os: background system
+- Bases of os: Beginning of the taskbar
 
 **Day of devlopement n°3.**
