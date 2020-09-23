@@ -54,11 +54,32 @@ body {
 }
 
 #taskbar {
-    width: 90%;
-    height: 5%;
+    width: 85%;
+    height: 8%;
     position: absolute;
-    bottom: 0.5%;
+    bottom: 3%;
     background-color: rgba(26, 57, 58, 0.945);
-    right: 5%;
+    right: 7.5%;
     border-radius: 10px;
-}   
+}
+
+.app {
+    background-color: rgba(0, 0, 0, 0.479);
+    padding: 5px;
+    width: 7%;
+    margin-left: 0.8%;
+    margin-top: 0.8%;
+    border-radius: 3px;
+    cursor: pointer;
+}
+
+.app-icon {
+    width: 100%;
+    border-radius: 50px;
+}
+
+.app-name {
+    font-size: 1.5em;
+    color: rgb(207, 207, 207);
+    margin-top: 0.5%;
+}

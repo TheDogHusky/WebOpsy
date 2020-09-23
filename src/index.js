@@ -1,6 +1,8 @@
 window.opsy = {}
 window.opsyCore = {}
 
+opsyCore.defaultApplicationIcon = "https://www.flaticon.com/svg/static/icons/svg/3524/3524976.svg";
+
 opsyCore.callback = function(callback, eventOrArgs=false) {
     if(callback!=false) {
         if(eventOrArgs!=false) {
