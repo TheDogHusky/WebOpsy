@@ -12,7 +12,19 @@ opsyCore.callback = function(callback, eventOrArgs=false) {
 }
 
 opsyCore.documentReady = function(e) {
-    opsy.setWallpaper(opsyCore.wallpaperUrl);
+    opsyCore.resizeEvent();
+}
+
+opsyCore.resizeEvent = function() {
+    opsy.screenWidth = window.outerWidth
+    opsy.screenHeight = window.outerHeight
+
+    if(opsy.screenWidth<432) {
+        opsy.setMobileWallpaper(opsyCore.mobileWallpaperUrl)
+    } else {
+        opsy.setWallpaper(opsyCore.wallpaperUrl);
+    }
 }
 
 document.addEventListener("DOMContentLoaded", opsyCore.documentReady)
+window.addEventListener("resize", opsyCore.resizeEvent);
