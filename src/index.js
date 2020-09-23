@@ -28,5 +28,9 @@ opsyCore.resizeEvent = function() {
     }
 }
 
+opsyCore.documentPuts = function(textToPuts) {
+    document.getElementsByTagName("body")[0].innerHTML += textToPuts;
+}
+
 document.addEventListener("DOMContentLoaded", opsyCore.documentReady)
 window.addEventListener("resize", opsyCore.resizeEvent);
