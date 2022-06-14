@@ -4,18 +4,18 @@
 
 # What is WebOpsy ?
 WebOpsy is an Online OS (Web = Online, Opsy = Operating system), with a modern ui...
-## Why choice WebOpsy ? 
-With WebOpsy you can create application with its api, and with web technologie. Its has a store, for install application created by the community...
+## Why choose WebOpsy ? 
+With WebOpsy you can create application with its api, and with its web technology. It has a store, to install application created by the community...
 You can deploy your app in this store it's free...
 The WebOpsy api is very simple, you can create your first windows with 2 lines of code:
 ```javascript
-var windows = new opsy.Window("My first WebOppsy app");
-windows.start()
+var window = new opsy.Window("My first WebOppsy app");
+window.start()
 ```
 
 # Development status
-All developement files are in the "githubpage" branch...
-Actualy the devlopment is just starting.
+All development files are in the "githubpage" branch...
+Actualy the development is just starting.
 ### This is a check list:
 - [ ] Bases of the OS
 - [X] Github.io
